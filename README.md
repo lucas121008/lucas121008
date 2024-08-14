@@ -1,4 +1,4 @@
-meu nome é lucas vinicios
+meu nome é lucas vinicius
 
 - estou estudando no alura
 - 
